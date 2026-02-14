@@ -1,3 +1,3 @@
-## Legacycord alemine hoş geldin!
+## Welcome to Legacycord Main Hall!
 
-**Release** bölümünden en güncel sürümü indirebilirsin. 
+You can download the latest version from the **Release** section.
